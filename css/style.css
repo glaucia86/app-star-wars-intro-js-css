@@ -12,3 +12,10 @@ body {
     left: 20%;
     z-index: 1;    
 }
+
+.intro_texto {
+    font-family: "News Cycle", sans-serif;
+    color: #00BFFF;
+    font-weight: 400;
+    letter-spacing: .1em;
+}
