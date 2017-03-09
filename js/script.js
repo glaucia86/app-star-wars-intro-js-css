@@ -4,7 +4,7 @@ var height  = window.innerHeight;
 var intro       = document.getElementsByClassName("intro")[0];
 var historia    = document.getElementsByClassName("historia")[0];
 var paragrafos  = document.getElementsByClassName("paragrafos")[0];
-var sonido      = document.getElementById("sonido");
+var som         = document.getElementById("som");
 
 intro.style.fontSize = width / 30 + "px";
 historia.style.fontSize = width / 20 + "px";
